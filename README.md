@@ -53,5 +53,24 @@ Es un software que permite que el sistema operativo se comunique con dispositivo
 ## Terminos Generales de Programacion
 
 
----
-*Ultima actualizacion: [25/03/2026]*
+## A. Conceptos fundamentales
+
+## 1. Algoritmo: 
+Conjunto de pasos ordenados para resolver un problema.
+
+## 2. Programa:  
+Implementación de un algoritmo en un lenguaje de programación.
+
+## 3. Lenguaje de programación: 
+Sistema formal para escribir instrucciones (ej: Python, Java, C++).
+
+
+## B. Elementos básicos del código
+
+## 4. Variable: 
+Espacio en memoria donde se almacena un dato.
+
+## 5. Constante: 
+Valor que no cambia durante la ejecución.
+
+
